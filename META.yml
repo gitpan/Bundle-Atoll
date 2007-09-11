@@ -1,9 +1,9 @@
 --- #YAML:1.0
 name:                Bundle-Atoll
-version:             0.01
+version:             0.02
 abstract:            Perl extension for ATOLL Linguistic Processing Chain
 license:             ~
-generated_by:        ExtUtils::MakeMaker version 6.31
+generated_by:        ExtUtils::MakeMaker version 6.36
 distribution_type:   module
 requires:     
 meta-spec:
