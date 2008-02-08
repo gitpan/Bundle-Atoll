@@ -1,5 +1,6 @@
+ChangeLog
+lib/Bundle/Atoll.pm
 Makefile.PL
 MANIFEST
 README
-lib/Bundle/Atoll.pm
 META.yml                                 Module meta-data (added by MakeMaker)
